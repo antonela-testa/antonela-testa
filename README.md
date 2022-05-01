@@ -1,4 +1,4 @@
-- 👋 Hola, me llamo Antonela! (pero pueden decirme Anto)
+- 👋 Hola, me llamo Antonela! (pueden decirme Anto)
 - 👀 Me interesa el diseño gráfico, el diseño UX y la programación. Escucho música de varios estilos. Me encanta ver pelis y series. 
 - Siempre estoy aprendiendo algo nuevo, muchas veces como autodidacta.
 - 🌱 Actualmente estoy aprendiendo a programar con el lenguaje Python.
