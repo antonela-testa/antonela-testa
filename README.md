@@ -1,5 +1,5 @@
 - 👋 Hola, me llamo Anto!
-- 👀 Me interesa el diseño gráfico, el diseño UX y la programación.
+- 👀 Me interesa el diseño UX/UI y la programación.
 - Siempre estoy aprendiendo algo nuevo, muchas veces como autodidacta.
 - 🌱 Actualmente estoy aprendiendo a programar con Javascript.
 - 💞 Estoy disponible para colaborar en algún proyecto de programación o en diseño web.
