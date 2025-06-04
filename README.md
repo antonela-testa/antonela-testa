@@ -9,7 +9,7 @@
 <h2>Sobre mí 😃</h2>
 <!--Intro start-->
 <div align="left">
-  <p>💻 Actualmente me espacializo en frontend.</p>
+  <p>💻 Actualmente me especializo en frontend.</p>
   <p>🚀 Me actualizo con nuevas herramientas que nutran mi especialidad. Algunas de ellas: Diseño UX/UI, UX Writing.</p>
   <p>💡 Tengo disponibilidad para sumarme a proyectos freelance.</p>
   <p>📫 Pueden contactarme aquí: **antonela.testa13@gmail.com**</p>
