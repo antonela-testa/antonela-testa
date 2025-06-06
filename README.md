@@ -17,7 +17,7 @@
 <!--Intro end-->
 
 <br>
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías conocidas 👩‍💻</h2>
 <!--tech stack icons-->
 <div align="left">
   <a href="https://skillicons.dev">
