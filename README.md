@@ -13,6 +13,7 @@
   <p>🚀 Me actualizo con nuevas herramientas que nutran mi especialidad. Algunas de ellas: Diseño UX/UI, UX Writing.</p>
   <p>💡 Tengo disponibilidad para sumarme a proyectos freelance.</p>
   <p>📫 Pueden contactarme aquí: <a href = "mailto:antonela.testa13@gmail.com" target="blank">antonela.testa13@gmail.com</a></p>
+  <p>🤝 Conecta conmigo: <a href = "[mailto:antonela.testa13@gmail.com](https://linkedin.com/in/antonela-testa)" target="blank">Linkedin</a></p>
 </div>
 <!--Intro end-->
 
