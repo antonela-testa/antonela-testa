@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Antonela Testa ✨ </h1>
 
 <div align="left">
-  <a href="https://linkedin.com/in/antonela-testa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Antonela Testa"/></a>
+  <a href="https://linkedin.com/in/antonela-testa-frontend-developer" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Antonela Testa"/></a>
   <a href = "mailto:antonela.testa13@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="antonela.testa13@gmail.com"/></a>
 </div>
 
