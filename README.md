@@ -10,7 +10,7 @@
 <!--Intro start-->
 <div align="left">
   <p>💻 Actualmente me especializo en frontend.</p>
-  <p>🚀 Me actualizo con nuevas herramientas que nutran mi especialidad. Algunas de ellas: Diseño UX/UI, UX Writing.</p>
+  <p>🚀 Me actualizo regularmente con nuevas herramientas que nutran mi especialidad. Algunas de ellas: Diseño UX/UI, UX Writing.</p>
   <p>💡 Tengo disponibilidad para sumarme a proyectos freelance.</p>
   <p>📫 Pueden contactarme aquí: <a href = "mailto:antonela.testa13@gmail.com" target="blank">antonela.testa13@gmail.com</a></p>
   <p>🤝 Conectemos en <a href = "https://linkedin.com/in/antonela-testa-frontend-developer" target="blank">Linkedin</a></p>
@@ -22,7 +22,7 @@
 <!--tech stack icons-->
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,nodejs,py,laravel,mysql,git,github,gitlab,docker,vscode,linux,ai,ps,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,nodejs,py,laravel,vuejs,mysql,git,github,gitlab,docker,vscode,linux,ai,ps,figma&perline=12" />
   </a>
 </div>
 <!-- fin tech stack icons -->
