@@ -10,6 +10,7 @@
 <!--Intro start-->
 <div align="left">
   <p>💻 Actualmente me especializo en frontend.</p>
+  <p>🧠 Formándome en backend.</p>
   <p>🚀 Me actualizo regularmente con nuevas herramientas que nutran mi especialidad. Algunas de ellas: Diseño UX/UI, UX Writing.</p>
   <p>💡 Tengo disponibilidad para sumarme a proyectos freelance.</p>
   <p>📫 Pueden contactarme aquí: <a href = "mailto:antonela.testa13@gmail.com" target="blank">antonela.testa13@gmail.com</a></p>
