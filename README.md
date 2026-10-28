@@ -28,8 +28,10 @@
 </div>
 <!-- fin tech stack icons -->
 
+<br>
 <h2>Proyectos</h2>
-
+<br>
 <h3>Capacitación en curso: Backend Node JS</h3>
   <p>En el siguiente <a href="https://github.com/antonela-testa/proyecto-backend-nodejs"><b>repositorio</b></a> se encuentra el proyecto en el que estoy trabajando actualmente.</p>
   <p>El mismo es parte de una capacitación gratuita que ofrece el gobierno de la ciudad de Buenos Aires en Talento Tech</p>
+<!-- fin sección proyectos -->
